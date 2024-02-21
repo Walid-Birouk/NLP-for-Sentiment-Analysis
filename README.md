@@ -19,8 +19,8 @@ The rise of digital communication has unfortunately also seen an increase in tox
 - To evaluate the model's performance and its applicability in real-world scenarios.
 
 ## Data Collection and Preprocessing
-We utilize a dataset containing online comments, which we preprocess and prepare for analysis. This involves cleaning the text, tokenizing sentences, and formatting the data to be suitable for model training.
-
+- We utilize a dataset containing online comments, which we preprocess and prepare for analysis. This involves cleaning the text, tokenizing sentences, and formatting the data to be suitable for model training.
+- The datasets together with the trained model can be found [Here](https://drive.google.com/file/d/1tIOrWdzukUoizc7dSEhwSpf5xs8vMXpu/view?usp=sharing).
 ## Model Development
 The project employs transfer learning and NLP techniques to develop a model capable of identifying toxic comments. This approach allows us to leverage pre-trained models, significantly reducing the need for extensive computational resources and large datasets.
 
