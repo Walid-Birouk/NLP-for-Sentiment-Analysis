@@ -7,7 +7,6 @@ This project utilizes Natural Language Processing (NLP) and transfer learning to
 ## Repository Contents
 - **Training Notebook**: A Jupyter notebook that details the process of training the NLP model. It includes data preprocessing, model selection, training, and evaluation steps.
 - **Testing Notebook**: A Jupyter notebook designed for testing the model with new data. It demonstrates how to load the trained model and make predictions.
-- **Datasets**: This repository includes both training and test datasets used for model development.
 
 
 ## Background
